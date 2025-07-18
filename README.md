@@ -1,7 +1,6 @@
 # Web App per RF
 
-Questa repository contiene tutto il necessario per l'esecuzione e la gestione della web app sviluppata per le analisi di RF al link https://unione-dataset.streamlit.app/.
-
+Questa repository contiene tutto il necessario per l'esecuzione e la gestione della web app sviluppata per le analisi di RF al link ...
 ## Contenuto della repository
 
 - **`app.py`**: contiene il codice principale per l'avvio e il funzionamento dell'applicazione web.  
