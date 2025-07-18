@@ -5,7 +5,6 @@ Questa repository contiene tutto il necessario per l'esecuzione e la gestione de
 
 - **`app.py`**: contiene il codice principale per l'avvio e il funzionamento dell'applicazione web.  
 - **`requirements.txt`**: elenco delle librerie Python necessarie per il corretto funzionamento dell'app.  
-- **Presentazione App RF (`.pdf`)**: illustra il lavoro svolto e le funzionalità principali dell'app.  
 - **`istruzioni_ripristino.txt`**: descrive i passaggi da seguire nel caso in cui l'app dovesse bloccarsi o necessiti di essere riavviata.
 
 ## Distribuzione
