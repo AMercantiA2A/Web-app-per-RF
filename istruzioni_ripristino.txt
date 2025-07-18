@@ -1,0 +1,5 @@
+Se l'app da errore, per riavviarla:
+1. Andare su https://streamlit.io/
+2. Accedere con account "Free"
+3. Andare nella sezione "My apps"
+4. Selezionare "Reboot" nei tre puntini verticali posti a dx
